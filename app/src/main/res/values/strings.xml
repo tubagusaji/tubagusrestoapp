@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">shirohigefood</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="categories">Kategori</string>
+    <string name="search">Pencarian</string>
+    <string name="favorite">Favorite</string>
+    <string name="search_food">Cari Makanan</string>
+    <string name="instructions">Instruksi</string>
+    <string name="ingredients">Bahan-Bahan</string>
+    <string name="category_format">Kategori : %s</string>
+    <string name="area_format">Asal Daerah : %s</string>
+    <string name="no_item">Tidak Ada Yang Ditemukan</string>
+    <string name="food_image">Gambar Makanan</string>
+    <string name="search_blank_info">Please fill the search keyword</string>
+    <string name="illegal_access">Illegal Access</string>
+    <string name="error_category">Error getting foods data : %s</string>
+    <string name="error_categories_list">Error getting categories : %s</string>
+    <string name="error_search">Error getting search result : %s</string>
+    <string name="error_detail">Error getting data : %s</string>
+</resources>
